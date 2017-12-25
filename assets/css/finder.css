@@ -1,0 +1,14 @@
+/*
+::selection { background: transparent; }
+body { font-family: Helvetica; }
+input { width: 100%; }
+h1 { font-size: 76px; }
+*/
+
+thead {
+	/*position: fixed;*/
+	/*width: 100%;*/
+}
+tbody {
+	/*margin-top: 40px;*/
+}
